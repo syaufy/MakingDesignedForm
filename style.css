@@ -1,0 +1,38 @@
+body    {  
+    font-family: "Lexend Deca", sans-serif;
+    background: rgb(131,58,180);
+    background: linear-gradient(77deg, rgba(131,58,180,1) 0%, rgba(188,78,156,1) 0%, rgba(248,7,89,1) 100%);
+    color: white;
+}
+
+.datadiri   {
+    text-align: center;
+    font-size: 70px;
+    margin-top: -0px;
+}
+
+.perempuan  {
+    margin-left: 20px;
+}
+
+.mainform   {
+    width: 450px;
+    height: 200px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-left: -225px;
+    margin-top: -250px;
+}
+
+.container  {   
+    
+
+
+}
+
+
+.input  {
+    border-radius: 9px;
+    font-family: "Lexend Deca", sans-serif;
+}
